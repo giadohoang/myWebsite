@@ -1,7 +1,7 @@
 <?php
 
 // Put contacting email here
-$php_main_email = "gdo@gwu.edu";
+$php_main_email = "gia.dohoang@gmail.com";
 
 //Fetching Values from URL
 $php_name = $_POST['ajax_name'];
